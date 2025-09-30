@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "BeiJing-China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Junqi Zhang / Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Junqi Zhang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,8 +27,8 @@ author:
   name             : "Junqi Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "BeiJing"
-  employer         : "The Chinese University of HongKong (ShenZhen)"
+  location         : "Beijing, China"
+  employer         : "CHUK(Shenzhen)"
   uri              : "https://github.com/chieri7" # URL
   email            : "224030195@link.cuhk.edu.cn" 
 
