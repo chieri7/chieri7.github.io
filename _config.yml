@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "BeiJing-China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Junqi Zhang / Personla Homepage"
+title                    : "Junqi Zhang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Junqi Zhang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
